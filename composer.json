@@ -1,0 +1,6 @@
+{
+  "name": "sutharsan/language_test",
+  "description": "Language and locale test facilities.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+"
+}

@@ -1,0 +1,6 @@
+name: Language Test
+type: module
+description: Language and locale test facilities.
+core: 8.x
+interface translation project: language_test
+interface translation server pattern: modules/contrib/%project/translations/%project.%language.po
